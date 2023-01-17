@@ -1,1 +1,2 @@
 this is updated version of text file
+feature2 added
